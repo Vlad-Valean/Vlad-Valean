@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vlad-Valean
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning django
+- 📫 How to reach me: vlad.valean19@gmail.com
